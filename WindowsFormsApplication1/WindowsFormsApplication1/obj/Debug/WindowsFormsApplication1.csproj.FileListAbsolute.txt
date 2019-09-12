@@ -1,0 +1,19 @@
+D:\Esamc\3º Semestre\DALPP - Desenvolvimento de Ap. Locais\05 - 10-03-2017\Visual Studio\Calculadora\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+D:\Esamc\3º Semestre\DALPP - Desenvolvimento de Ap. Locais\05 - 10-03-2017\Visual Studio\Calculadora\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+D:\Esamc\3º Semestre\DALPP - Desenvolvimento de Ap. Locais\05 - 10-03-2017\Visual Studio\Calculadora\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+D:\Esamc\3º Semestre\DALPP - Desenvolvimento de Ap. Locais\05 - 10-03-2017\Visual Studio\Calculadora\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+D:\Esamc\3º Semestre\DALPP - Desenvolvimento de Ap. Locais\05 - 10-03-2017\Visual Studio\Calculadora\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+D:\Esamc\3º Semestre\DALPP - Desenvolvimento de Ap. Locais\05 - 10-03-2017\Visual Studio\Calculadora\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+D:\Esamc\3º Semestre\DALPP - Desenvolvimento de Ap. Locais\05 - 10-03-2017\Visual Studio\Calculadora\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+D:\Esamc\3º Semestre\DALPP - Desenvolvimento de Ap. Locais\05 - 10-03-2017\Visual Studio\Calculadora\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+D:\Esamc\3º Semestre\DALPP - Desenvolvimento de Ap. Locais\05 - 10-03-2017\Visual Studio\Calculadora\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+D:\Documentos\Projetos Programação\Visual Studio\Visual Studio\Calculadora\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+D:\Documentos\Projetos Programação\Visual Studio\Visual Studio\Calculadora\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+D:\Documentos\Projetos Programação\Visual Studio\Visual Studio\Calculadora\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+D:\Documentos\Projetos Programação\Visual Studio\Visual Studio\Calculadora\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+D:\Documentos\Projetos Programação\Visual Studio\Visual Studio\Calculadora\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+D:\Documentos\Projetos Programação\Visual Studio\Visual Studio\Calculadora\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+D:\Documentos\Projetos Programação\Visual Studio\Visual Studio\Calculadora\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.cache
+D:\Documentos\Projetos Programação\Visual Studio\Visual Studio\Calculadora\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.CoreCompileInputs.cache
+D:\Documentos\Projetos Programação\Visual Studio\Visual Studio\Calculadora\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+D:\Documentos\Projetos Programação\Visual Studio\Visual Studio\Calculadora\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
